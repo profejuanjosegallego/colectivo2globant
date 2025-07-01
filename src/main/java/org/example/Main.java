@@ -7,9 +7,10 @@ public class Main {
 
         Scanner readData=new Scanner(System.in);
 
-        System.out.println("** Resident Evil ver.Easy **");
-        System.out.println("Developer SMAB");
-        
+        System.out.println("RESIDENT EVIL");
+
+        System.out.println("DEVELOPER JJG");
+        System.out.println("DEVELOPER JDM");
 
     }
 }
