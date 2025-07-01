@@ -13,22 +13,8 @@ public class Main {
         System.out.println("DEVELOPER MACS");
         System.out.println("DEVELOPER JDP");
 
-        Scanner teclado=new Scanner(System.in);
+        Scanner teclado = new Scanner(System.in);
 
 
+    }}
 
-
-public class Main {
-    public static void main(String[] args) {
-
-        Scanner scanner = new Scanner(System.in);
-
-
-        System.out.println("RESIDENT EVIL");
-
-        System.out.println("DEVELOPER JJG");
-        System.out.println(" DEVELOPER JDM");
-
-
-        }
-    }
