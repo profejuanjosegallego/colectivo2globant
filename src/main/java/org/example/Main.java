@@ -7,6 +7,9 @@ public class Main {
 
 
         System.out.println("RESIDENT EVIL");
-        System.out.println(" DEVELOPER MFM");
+
+        System.out.println("DEVELOPER JJG");
+        System.out.println(" DEVELOPER JDM");
+
     }
 }
