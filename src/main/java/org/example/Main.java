@@ -4,7 +4,10 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("RESIDENT EVIL");
+
+        System.out.println("RESIDEN EVIL");
+
         System.out.println("DEVELOPER JSR");
+        System.out.println("DEVELOPER JDM");
     }
 }
