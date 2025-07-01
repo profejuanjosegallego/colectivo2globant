@@ -8,8 +8,9 @@ public class Main {
         System.out.println("RESIDEN EVIL");
 
         System.out.println("DEVELOPER JJG");
-        
+
         System.out.println("RESIDENT DRG");
+        System.out.println("RESIDENT SCA");
 
     }
 }
